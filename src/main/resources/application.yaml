@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: RestClient_HTTP_Interface
+
